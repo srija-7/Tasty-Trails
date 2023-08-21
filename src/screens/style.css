@@ -1,0 +1,28 @@
+.signup {
+    background-image: url("https://source.unsplash.com/random/700x400/?food");
+    background-size: cover;
+    height: 100vh;
+}
+
+.login {
+    background-image: url("https://source.unsplash.com/random/700x400/?meal");
+    background-size: cover;
+    height: 100vh;
+}
+
+.cart {
+    background-image: url("https://source.unsplash.com/random/700x400/?meal");
+    background-size: cover;
+    height: 100vh;
+}
+
+.home {
+    background-color: antiquewhite;
+}
+
+.fontchange {
+    font-family: 'Poppins', sans-serif;
+    /* color: goldenrod; */
+    font-weight: bold;
+    padding-left: '2px';
+}

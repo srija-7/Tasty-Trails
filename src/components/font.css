@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Lobster&family=Poppins:wght@200;300;400;500;600;700;800;900&family=Vina+Sans&display=swap');
+
+
+/* font-family: 'Dancing Script', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Lobster', cursive;
+font-family: 'Vina Sans', cursive; */
+
+.fontchange {
+    font-family: 'Poppins', sans-serif;
+    /* color: goldenrod; */
+    font-weight: bold;
+    padding-left: '2px';
+}
+
+.font{
+    font-family: 'Poppins', sans-serif;
+}
+
+.des {
+    font-family: 'Poppins', sans-serif;
+    /* color: goldenrod; */
+    padding-left: '2px';
+}
+
+
+
+.colors {
+    color: blanchedalmond;
+}

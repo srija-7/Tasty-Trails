@@ -1,0 +1,125 @@
+      {/* <div className="ml-6">
+        <div className="card card_style mt-3">
+          <div
+            id="carouselExampleDark"
+            className="carousel carousel-dark slide"
+            data-bs-ride="carousel"
+          >
+            <div className="carousel-indicators">
+              <button
+                type="button"
+                data-bs-target="#carouselExampleDark"
+                data-bs-slide-to="0"
+                class="active"
+                aria-current="true"
+                aria-label="Slide 1"
+              ></button>
+              <button
+                type="button"
+                data-bs-target="#carouselExampleDark"
+                data-bs-slide-to="1"
+                aria-label="Slide 2"
+              ></button>
+              <button
+                type="button"
+                data-bs-target="#carouselExampleDark"
+                data-bs-slide-to="2"
+                aria-label="Slide 3"
+              ></button>
+              <button
+                type="button"
+                data-bs-target="#carouselExampleDark"
+                data-bs-slide-to="3"
+                aria-label="Slide 4"
+              ></button>
+            </div>
+            <div className="carousel-inner">
+              <div className="carousel-item active">
+                <img
+                  src="https://source.unsplash.com/random/300x200/?burger"
+                  className="d-block w-100"
+                  alt="..."
+                />
+              </div>
+              <div className="carousel-item">
+                <img
+                  src="https://source.unsplash.com/random/300x200/?burger"
+                  className="d-block w-100"
+                  alt="..."
+                />
+              </div>
+              <div className="carousel-item">
+                <img
+                  src="https://source.unsplash.com/random/300x200/?burger"
+                  className="d-block w-100"
+                  alt="..."
+                />
+              </div>
+              <div className="carousel-item">
+                <img
+                  src="https://source.unsplash.com/random/300x200/?burger"
+                  className="d-block w-100"
+                  alt="..."
+                />
+              </div>
+            </div>
+            <button
+              class="carousel-control-prev"
+              type="button"
+              data-bs-target="#carouselExampleDark"
+              data-bs-slide="prev"
+            >
+              <span
+                class="carousel-control-prev-icon"
+                aria-hidden="true"
+              ></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button
+              class="carousel-control-next"
+              type="button"
+              data-bs-target="#carouselExampleDark"
+              data-bs-slide="next"
+            >
+              <span
+                class="carousel-control-next-icon"
+                aria-hidden="true"
+              ></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+          {/* Foody_1.png */}
+      {/* <div className="card-body">
+            <h3 className="card-title">Bring Me Meal</h3>
+            <p className="card-text">Food Delivery Site</p>
+            {/* <a href="#" className="btn btn-primary">Go somewhere</a> */}
+      {/* <div className="container w-100">
+              {" "}
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores,
+              earum eveniet. Perspiciatis distinctio minus maxime voluptatibus
+              temporibus alias odio totam.
+              <select className="m-2 h-100 bg-success rounded">
+                {Array.from(Array(10), (e, i) => {
+                  return (
+                    <option key={i + 1} value={i + 1}>
+                      {" "}
+                      {i + 1}{" "}
+                    </option>
+                  );
+                })}
+              </select>
+              <select className="m-2 h-100 bg-success rounded">
+                <option value="half">Half</option>
+                <option value="full">Full</option>
+                <option value="bulk">Bulk</option>
+              </select>
+              <div className="d-inline h-100 fs-5">Total Price:-</div>
+              <p>
+                <button className="btn btn-outline-info" to="/">
+                  About
+                </button>
+              </p>
+            </div>
+          </div> */}
+      {/* </div> */}
+      {/* </div> */}
