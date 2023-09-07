@@ -27,11 +27,6 @@ router.post(
         password: securePassword,
         email: req.body.email,
         location: req.body.location,
-        // JSON FORMAT
-        // "name": "Abhijit",
-        // "password": "1234",
-        // "email": "xyz@gmail.com",
-        // "location": "Baker Street 1234"
       }).then(res.json({ success: true }));
     } catch (error) {
       console.log(error);
